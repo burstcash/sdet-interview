@@ -14,13 +14,13 @@ You have been provided with a NextJS TypeScript application that simulates a ban
 - Fund accounts (via card or bank transfer)
 - View transaction history
 
-## Your Mission
+## Your Mission - Complete these **in order**
 
 1. **Set up a testing framework** of your choice (Jest, Vitest, Cypress, Playwright, etc.)
 2. **Write comprehensive tests** covering all functionality
 3. **Achieve maximal code coverage**
 4. **Identify and document bugs** you discover through testing
-5. **Fix the bugs you find**:
+5. **Extra Credit**: Fix the bugs you find
 
 ## Getting Started
 
